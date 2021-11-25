@@ -1,0 +1,51 @@
+{
+  "konyvek": [
+    {
+      "szerzo": "Nagy Anna",
+      "cim": "Családok",
+      "ar": "1344",
+      "tipus": "Regény",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "szerzo": "Ady Endre",
+      "cim": "Gyerekek",
+      "ar": 1600,
+      "tipus": "Vers"
+    },
+    {
+      "szerzo": "Nagy Anna",
+      "cim": "Családok",
+      "ar": "1344",
+      "tipus": "Regény",
+      "id": "fOXDzzg"
+    },
+    {
+      "szerzo": "Nagy Anna",
+      "cim": "Családok",
+      "ar": "1344",
+      "tipus": "Regény",
+      "id": "N8sMJ7L"
+    },
+    {
+      "szerzo": "ANNA",
+      "cim": "Család",
+      "ar": "1212",
+      "tipus": "Rend",
+      "id": "IsZ6-u4"
+    }
+  ],
+  "szerzok": [
+    {
+      "id": "1",
+      "nev": "Van Gogh",
+      "nemzetiseg": "Holland"
+    },
+    {
+      "id": "1",
+      "nev": "Rubik Ernő",
+      "nemzetiseg": "Magyar"
+    }
+  ]
+}

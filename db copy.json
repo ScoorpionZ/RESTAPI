@@ -1,0 +1,37 @@
+{
+  "konyvek": [
+    {
+      "id": "1",
+      "szerzo": "Arany János",
+      "cim": "Asszonyok",
+      "ar": 1230,
+      "tipus": "regény"
+    },
+    {
+      "id": "2",
+      "szerzo": "Kodály Zoltán",
+      "cim": "Fárfiak",
+      "ar": 1607,
+      "tipus": "Pngyva regény"
+    },
+    {
+      "id": "3",
+      "szerzo": "Ady Endre",
+      "cim": "Gyerekek",
+      "ar": 1600,
+      "tipus": "Vers"
+    }
+  ],
+  "szerzok": [
+    {
+      "id": "1",
+      "nev": "Van Gogh",
+      "nemzetiseg": "Holland"
+    },
+    {
+      "id": "1",
+      "nev": "Rubik Ernő",
+      "nemzetiseg": "Magyar"
+    }
+  ]
+}
